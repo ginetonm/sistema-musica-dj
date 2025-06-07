@@ -5,8 +5,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "gatsby build",
-  "develop": "gatsby develop",
-  "start": "gatsby develop"
+    "develop": "gatsby develop",
+    "start": "gatsby develop"
   },
   "keywords": [],
   "author": "",
@@ -16,6 +16,7 @@
     "cors": "^2.8.5",
     "dotenv": "^16.5.0",
     "express": "^5.1.0",
+    "gatsby": "^5.14.4",
     "jsonwebtoken": "^9.0.2"
   }
 }
